@@ -8,8 +8,8 @@ downloading BraTS 2020 dataset which can be found from [Here](https://www.med.up
 ## Pre-trained models
 | Model | Weights | 
 | --- | --- |
-| Four branches |[Baidu]([https://www.med.upenn.edu/cbica/brats2019/data.html](https://pan.baidu.com/s/1DLHHuENBpzKjS0l5eFcLRw ) "[https://www.med.upenn.edu/cbica/brats2019/data.html](https://www.med.upenn.edu/cbica/brats2019/data.html)") (password:1234) |
-| Two branches | 内容 |
+| BraTs2019 |[Baidu]([https://www.med.upenn.edu/cbica/brats2019/data.html](https://pan.baidu.com/s/1DLHHuENBpzKjS0l5eFcLRw ) (password:1234) |
+| BraTS2020 | [Baidu]([https://www.med.upenn.edu/cbica/brats2019/data.html](https://pan.baidu.com/s/1DLHHuENBpzKjS0l5eFcLRw ) (password:1234) |
 ## Experimental results
 ![image](https://github.com/CYlala/CFNet/assets/110222769/a775b949-0138-495e-a2fe-8976a088d943)
 <p align="center">  Figure 2:Visual comparison results on the BraTS2019 benchmark. </p>

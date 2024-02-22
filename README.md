@@ -17,5 +17,9 @@ downloading BraTS 2020 dataset which can be found from [Here](https://www.med.up
 ![image](https://github.com/CYlala/CFNet/assets/110222769/3f5a96f2-f8d0-4aa8-8403-f8facd3d62d0)
 <p align="center">  Figure 3:Visual comparison results on the BraTS2020 benchmark. </p>
 
-![image](https://github.com/CYlala/CFNet/assets/110222769/f4bfeac2-3d38-4251-8809-bef356a21851)
+![image](https://github.com/YaruC/CFNet/assets/160707518/635530f3-bac8-45d4-8a16-0a4d4986eec6)
+
+![image](https://github.com/YaruC/CFNet/assets/160707518/9f58deff-8ba5-451d-9f23-5e81819024cb)
+
+
 

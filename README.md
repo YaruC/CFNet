@@ -5,6 +5,29 @@ Figure 1: Our network project, named CFNet, is a deep learning endeavor focused 
 ## Dataset
 downloading BraTS 2019 dataset which can be found from [Here](https://www.med.upenn.edu/cbica/brats2019/data.html "https://www.med.upenn.edu/cbica/brats2019/data.html") .
 downloading BraTS 2020 dataset which can be found from [Here](https://www.med.upenn.edu/cbica/brats2020/data.html "https://www.med.upenn.edu/cbica/brats2020/data.html") .
+## Structure of the repo
+*`utils`：helper functions for io, loggings, training, visualizations.
+  *`utils/dataset.py`:dataset preprocessing file
+  *`utils/util.py`:helper functions for io, loggings, training, visualizations, validating
+*`list`：txt file directory of the data
+*`dataset`：loading and setup input datasets. 
+*`model`：the model of the framework is proposed
+*`lossfunction.py`:loss function
+*`metirc.py`:model evaluation index
+*`visual.py`:segmentation result visualization file
+## Preparation
+Build the environment with `python3.6.5` and `torch1.8.0`.
+## Train
+In the training process, you may need to adjust the parameters to adapt to your device, such as the batch size and the learning rate.
+```
+cd CFNet
+python train.py
+```
+## Test
+```
+cd CFNet
+python test.py
+```
 ## Pre-trained models
 | Model | Weights | 
 | --- | --- |
